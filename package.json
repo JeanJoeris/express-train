@@ -1,0 +1,31 @@
+{
+  "name": "express-train",
+  "version": "0.0.1",
+  "description": "express, mocha, chai",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanJoeris/express-train.git"
+  },
+  "keywords": [
+    "Express",
+    "mocha",
+    "chai"
+  ],
+  "author": "Jean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanJoeris/express-train/issues"
+  },
+  "homepage": "https://github.com/JeanJoeris/express-train#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "request": "^2.79.0"
+  }
+}
